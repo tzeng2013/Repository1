@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>HelloWorldSessionBean</name>
-	<comment>For testing</comment>
+	<comment>For testing on Branch1</comment>
 	<projects>
 	</projects>
 	<buildSpec>
